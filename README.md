@@ -1,3 +1,3 @@
 # jdosher2.github.io
 
-Simple HTML-based personal site
+Simple personal site made with HTML and CSS
